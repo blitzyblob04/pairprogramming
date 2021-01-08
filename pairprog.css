@@ -1,0 +1,25 @@
+/* Fonts to avail
+font-family: 'East Sea Dokdo', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Ultra', serif;
+*/
+
+
+body {
+    
+}
+
+
+h2 {
+    font-family: 'East Sea Dokdo', cursive;
+}
+.fragment {
+    font-family: 'Permanent Marker', cursive;
+}
+p{
+    font-family: 'Permanent Marker', cursive;
+}
+p .under2 {
+    text-indent: 5px;
+}
